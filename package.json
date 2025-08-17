@@ -1,0 +1,17 @@
+{
+  "name": "video-streaming-platform",
+  "version": "1.0.0",
+  "description": "A video streaming platform to get started with production ready backend ",
+  "keywords": [
+    "javascript",
+    "backend",
+    "mongoose"
+  ],
+  "license": "ISC",
+  "author": "Ishavdeep Kaur",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
